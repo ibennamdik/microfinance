@@ -1,0 +1,19 @@
+UPDATE mc_customers SET savings_balance = 0, customer_status = 1;
+
+UPDATE uc_users SET income_customers = 0, income_profit = 0, income_contributions = 0;
+
+TRUNCATE mc_loans;
+
+TRUNCATE mc_savings;
+
+TRUNCATE mc_withdrawals;
+
+TRUNCATE mc_investments;
+
+TRUNCATE mc_receipts;
+
+TRUNCATE mc_logs;
+
+TRUNCATE TABLE mc_activeloans;
+
+TRUNCATE TABLE mc_activeinvestments;
