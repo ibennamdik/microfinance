@@ -5,6 +5,10 @@ session_start();
     $DB_USER = 'root';
     $DB_PASS = "12345678";
     $DB_NAME = 'namlcomn_db';
+    
+    // $DB_PASS = "Gno@17!!mysql";
+    // $DB_NAME = 'microfinance';
+    
     GLOBAL $DB_con;
 
     try {

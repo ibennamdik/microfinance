@@ -3,8 +3,10 @@ session_start();
 //Database Information
 $db_host = "localhost"; //Host address (most likely localhost)
 $db_name = "namlcomn_db"; //Name of Database
+//$db_name = "microfinance"; //Name of Database
 $db_user = "root"; //Name of database user
 $db_pass = "12345678"; //Password for database user
+//$db_pass = "Gno@17!!mysql"; //Password for database user
 $db_table_prefix = "uc_";
 
 GLOBAL $errors;
