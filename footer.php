@@ -5,19 +5,19 @@
                 <div class="widget">
                     <h5 class="widgetheading">Our Contact</h5>
                     <address>
-                    <strong>Nasir Adamu Musa Limited</strong><br>
-                    Suit U3 Imam plaza Along high court Round about along daura road sabo titi Kwado Katsina state</address>
+                    <strong>Savings Club</strong><br>
+                    Jos, Nigeria</address>
                     
                 </div>
             </div>
             <div class="col-md-3 col-sm-3">
                 <div class="widget">
-                    <h5 class="widgetheading">&nbsp</h5>
+                    <h5 class="widgetheading">Phone/Mail</h5>
                     <address>
                     <strong>Phone/Emails</strong><br>
                     <p>
-                        <i class="icon-phone"></i> 08035823744, 07038461967<br>
-                        <i class="icon-envelope-alt"></i>fidelitynasir@gmail.com
+                        <i class="icon-phone"></i> 07061325694, 08090590166<br>
+                        <i class="icon-envelope-alt"></i>gnorizoncnsults@gmail.com
                     </p>
                 </div>
             </div>
@@ -25,11 +25,8 @@
                 <div class="widget">
                     <h5 class="widgetheading">Services</h5>
                     <ul class="link-list">
-                        <li><a href="#">First Monie</a></li>
-                        <li><a href="#">Quick Teller</a></li>
-                        <li><a href="#">Soft Loans</a></li>
-                        <li><a href="#">Investments</a></li>
-                        <li><a href="#">Digital Savings</a></li>
+                        <li><a href="#">Save</a></li>
+                        <li><a href="#">Deposit</a></li>
                     </ul>
                 </div>
             </div>
@@ -38,11 +35,8 @@
                 <div class="widget">
                     <h5 class="widgetheading">Services</h5>
                     <ul class="link-list">
-                        <li><a href="#">Examinations</a></li>
-                        <li><a href="#">Result Checks</a></li>
-                        <li><a href="#">Fee Payments</a></li>
-                        <li><a href="#">Registrations</a></li>
-                        <li><a href="#">Research</a></li>
+                        <li><a href="#">Withdraw</a></li>
+                        <li><a href="#">Invest</a></li>
                     </ul>
                 </div>
             </div>
@@ -51,11 +45,7 @@
                 <div class="widget">
                     <h5 class="widgetheading">Services</h5>
                     <ul class="link-list">
-                        <li><a href="#">Internet Cafe</a></li>
-                        <li><a href="#">Computer Institute</a></li>
-                        <li><a href="#">Sim Registration</a></li>
-                        <li><a href="#">Trouble shooting</a></li>
-                        <li><a href="#">Contact us</a></li>
+                        <li><a href="#">Loans</a></li>
                     </ul>
                 </div>
             </div>
@@ -69,16 +59,16 @@
                 <div class="col-lg-6">
                     <div class="copyright">
                         <p>
-                            <span>&copy; WebThemez | Powered by Ixnote Services | NAML </span>
+                            <span>&copy; WebThemez</span>
                         </p>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <ul class="social-network">
-                        <li><a href="https://facebook.com/NASIRAML/" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="https://twitter.com/fidelitynasir" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="https://www.instagram.com/officialnaml/" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="portal/login.php" data-placement="top" title="Staff Login"><i class="fa fa-user"></i></a></li>
+                        <li><a href="https://facebook.com/" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.instagram.com/" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="#" data-placement="top" title="Staff Login"><i class="fa fa-user"></i></a></li>
                     </ul>
                 </div>
             </div>

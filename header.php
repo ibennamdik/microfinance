@@ -30,7 +30,7 @@
     <div class="row">
       <div class="col-md-12"> 	  
         <p class="pull-left hidden-xs"><i class="fa fa-clock-o"></i><span>Mon - Sat 8.00 - 18.00. Sunday CLOSED</span></p>
-        <p class="pull-right"><i class="fa fa-phone"></i>Tel No. 08035823744, 07038461967</p>
+        <p class="pull-right"><i class="fa fa-phone"></i>Tel No. 07061325694</p>
       </div>
     </div>
   </div>
@@ -45,19 +45,20 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.php"><img src="img/logo.png" alt="logo"/></a>
+                    <a class="navbar-brand" href="index.php"><img src="img/logo.png" width="50px;" alt="logo"/></a>
 
                 </div>
                 <div class="navbar-collapse collapse ">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="index.php">Home</a></li> 
-						<li><a href="index.php?page=1">First Monie</a></li>
+						            <!-- <li><a href="index.php?page=1">First Monie</a></li>
                         <li><a href="index.php?page=2">Micro Credit</a></li>
                         <li><a href="index.php?page=6">Consulting</a></li>
                         <li><a href="index.php?page=3">Computer School</a></li>
                         <li><a href="index.php?page=4">Business Center</a></li>
-                        <li><a href="index.php?page=5">Contact</a></li>
-                        <li><a href="public/login.php">Login</a></li> 
+                        <li><a href="index.php?page=5">Contact</a></li> -->
+                        <li><a href="public/login.php">Customer Login</a></li> 
+                        <li><a href="portal/login.php">Staff Login</a></li> 
                     </ul>
                 </div>
             </div>
